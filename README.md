@@ -28,7 +28,7 @@ This project's main goal is to create a deep and automated understanding of a co
 3. Install Python packages: `poetry install`
 4. Create a new `.env` file: `cp .env.example .env`
 5. Set up your environment variables for the OpenAI API Key in `.env`
-6. (optinal) Change the crawler settings as necessary in `crawler/settings.py`
+6. (optional) Change the crawler settings as necessary in `crawler/settings.py`
 
 ### Running for Superside
 
